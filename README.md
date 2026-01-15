@@ -1,16 +1,70 @@
-## Hi there 👋
+💫 About Me
 
-<!--
-**Abhishek-sandhu/Abhishek-sandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I’m Abhishek Sandhu 🚀
+A passionate Web Developer 💻 and BCA Student 🎓 who loves building modern, scalable, and user-friendly web applications 🌐✨
 
-Here are some ideas to get you started:
+I enjoy crafting beautiful frontend experiences 🎨 and strengthening them with solid backend logic ⚙️. Turning ideas 💡 into real-world, functional products 🛠️ is what truly excites me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 During my journey, I’ve worked extensively with:
+HTML • CSS • JavaScript • React • Node.js • Express • MongoDB • Python 🚀
+
+I’ve also completed a Web Development Internship 🏆, where I gained hands-on experience in:
+✅ Enhancing UI/UX & usability 🎯
+✅ Building responsive & mobile-first layouts 📱💻
+✅ Working on real-world projects & team workflows 🔥
+
+🚀 Currently Focused On
+
+✨ Strengthening Full-Stack Development skills
+✨ Building real-world, production-ready projects 🧩
+✨ Practicing DSA & Core CS fundamentals 📘
+✨ Sharing consistent learning on LinkedIn & GitHub 📈
+
+🌱 My Mindset
+
+💪 Learning by doing
+⏳ Staying consistent every day
+🌟 Never stopping growth
+
+I’m always excited to explore new technologies ⚡, collaborate on meaningful projects 🤝, and create solutions that make an impact 🌍
+
+🎯 Goal: To become a skilled Full-Stack Web Developer and build impactful digital products 🚀
+
+🌐 Connect With Me
+
+
+
+
+
+
+
+
+
+
+💻 Tech Stack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📊 GitHub Stats
+
+
+
+
+
